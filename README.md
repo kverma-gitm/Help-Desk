@@ -82,16 +82,7 @@ MongoDB
 
     1.)Update Email and Password in ticket Controller for nodemailer event.
 ```
- Open As Admin:
-```
-    To Run the Application as an admin please signup into Application Using name as "Admin".
-    1.)As this is demo Application, all the users having name as Admin will be admin of this application.
-    2.)you Will be able to open and close the status of the queries.
-```    
- Open As User:
-```
-    To Run the Application as an user please signup into Application Using name other than (Admin or '').
-```
+
     
 ## Built With
 
