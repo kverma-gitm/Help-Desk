@@ -1,4 +1,4 @@
-# Support Buddy - Ticket Based Support System
+# Help Desk - Ticket Based Support System
 
 
 ## Description
@@ -19,14 +19,34 @@ c) The user can open or close a query.
 d) The user can see details of a particular query.  
 e) The user can delete a query.
 f) User can all see the information of the account.
-g)On Status change of ticket or reply on the ticket, the person will receive an email notification.
-h)User can filter the tickets according to the status using dropdown menu on the upper right corner of the webpage.
+g) On Status change of ticket or reply on the ticket, the person will receive an email notification.
+h) User can filter the tickets according to the status using dropdown menu on the upper right corner of the webpage.
  
  
-2) Ticket Resolution Panel - Admin end 
+2) A view for the admin- 
 
-a) View to Display ticket by status - This should list all tickets received by the support system. There should be a drop down menu to filter through the status of ticket. Ticket can be of status ‘open’ or ‘closed’ depending on whether the query is resolved or not.  
-b) A view to show the details of a particular query. It should include the original question as well as the answer from admin and person in form of a conversation (chat like UI). This view should also have the option to set the status of the ticket to ‘open’ or ‘closed’ depending on whether the query is resolved or not. The answer created here 
+a)Here admin can login and see all queries by the user.
+b)The admin can reply to the queries.
+c)The admin can open or close a query.
+d)Admin can delete a query.
+e)Admin can see all the information of the users.(extra feature)
+f)On Status change of ticket or reply on the ticket, the person will receive an email notification.
+e)Admin can filter the tickets according to the status using dropdown menu on the upper right corner of the webpage. 
+
+
+(   Note- 
+
+    To open As Admin:
+
+    To Run the Application as an admin please signup into Application Using name as "Admin".
+    1.)As this is demo Application, all the users having name as Admin will be admin of this application.
+    2.)You Will be able to see the information of all users.
+
+    To open as User:
+    To Run the Application as an user please signup into Application Using name other than (Admin).
+
+    To Send email notification:
+    Enter valid email and password in "ticket.js" file in server/app/controller folder.)
  
  ```
 
