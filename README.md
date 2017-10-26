@@ -29,7 +29,7 @@ a)Here admin can login and see all queries by the user.
 b)The admin can reply to the queries.
 c)The admin can open or close a query.
 d)Admin can delete a query.
-e)Admin can see all the information of the users.(extra feature)
+e)Admin can see all the information of the users.
 f)On Status change of ticket or reply on the ticket, the person will receive an email notification.
 e)Admin can filter the tickets according to the status using dropdown menu on the upper right corner of the webpage. 
 
